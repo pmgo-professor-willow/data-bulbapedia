@@ -6,11 +6,11 @@ import urlJoin from 'url-join';
 // Local modules.
 import { hostUrl } from './utils';
 
-interface Post {
-  title: string;
-  link: string;
-  date: string;
-  coverImageUrl: string;
+interface CommunityDay {
+  featuredPokemon?: string;
+  eligiblePokemon?: string;
+  moves?: string[];
+  date?: string;
 }
 
 const getCommunityDays = async () => {
@@ -21,7 +21,7 @@ const getCommunityDays = async () => {
   const root = parse(xml);
   const rowItems = root.querySelectorAll('table.roundtable tbody tr');
 
-  const communityDays: any[] = [];
+  const communityDays: CommunityDay[] = [];
   
   for await (const rowItem of rowItems) {
     const tdItems = rowItem.querySelectorAll('td');
@@ -35,7 +35,7 @@ const getCommunityDays = async () => {
     if (tdItems.length === 6) {
       const featuredPokemon = tdItems[0].querySelector('a')?.getAttribute('title');
       const eligiblePokemon = tdItems[3].querySelector('a')?.getAttribute('title');
-      const moves = tdItems[2].querySelectorAll('a')?.map(e => e.getAttribute('title')).filter(s => s?.includes('(move)')).map(s => s?.replace(' (move)', ''));
+      const moves = tdItems[2].querySelectorAll('a')?.map(e => e.getAttribute('title')!).filter(s => s?.includes('(move)')).map(s => s?.replace(' (move)', ''));
       const date = tdItems[1].getAttribute('data-sort-value');
 
       communityDays.push({ featuredPokemon, eligiblePokemon, moves, date });
@@ -43,14 +43,14 @@ const getCommunityDays = async () => {
     // Second row, third row ...
     else if (tdItems.length === 2) {
       const eligiblePokemon = tdItems[1].querySelector('a')?.getAttribute('title');
-      const moves = tdItems[0].querySelectorAll('a')?.map(e => e.getAttribute('title')).filter(s => s?.includes('(move)')).map(s => s?.replace(' (move)', ''));
+      const moves = tdItems[0].querySelectorAll('a')?.map(e => e.getAttribute('title')!).filter(s => s?.includes('(move)')).map(s => s?.replace(' (move)', ''));
       const lastCommunityDay = _.last(communityDays);
 
       communityDays.push({ ...lastCommunityDay, eligiblePokemon, moves });
     }
   }
 
-  return communityDays;
+  return communityDays.filter(c => c.featuredPokemon);
 };
 
 export {
