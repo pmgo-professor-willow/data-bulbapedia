@@ -34,16 +34,16 @@ const getCommunityDays = async () => {
     // First row.
     if (tdItems.length === 6) {
       const featuredPokemon = tdItems[0].querySelector('a')?.getAttribute('title');
-      const eligiblePokemon = tdItems[3].querySelector('a')?.getAttribute('title');
-      const moves = tdItems[2].querySelectorAll('a')?.map(e => e.getAttribute('title')!).filter(s => s?.includes('(move)')).map(s => s?.replace(' (move)', ''));
       const date = tdItems[1].getAttribute('data-sort-value');
+      const moves = tdItems[2].querySelectorAll('a')?.map(e => e.getAttribute('title')!).filter(s => s?.includes('(move)')).map(s => s?.replace(' (move)', ''));
+      const eligiblePokemons = tdItems[3].querySelectorAll('span a')?.map(e => e.getAttribute('title'));
 
-      communityDays.push({ featuredPokemon, eligiblePokemon, moves, date });
+      eligiblePokemons.forEach(eligiblePokemon => communityDays.push({ featuredPokemon, eligiblePokemon, moves, date }));
     }
     // Second row, third row ...
     else if (tdItems.length === 2) {
-      const eligiblePokemon = tdItems[1].querySelector('a')?.getAttribute('title');
       const moves = tdItems[0].querySelectorAll('a')?.map(e => e.getAttribute('title')!).filter(s => s?.includes('(move)')).map(s => s?.replace(' (move)', ''));
+      const eligiblePokemon = tdItems[1].querySelector('a')?.getAttribute('title');
       const lastCommunityDay = _.last(communityDays);
 
       communityDays.push({ ...lastCommunityDay, eligiblePokemon, moves });
