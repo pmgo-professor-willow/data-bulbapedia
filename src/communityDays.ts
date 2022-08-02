@@ -1,6 +1,6 @@
 // Node modules.
 import _ from 'lodash';
-import fetch from 'node-fetch';
+import puppeteer from 'puppeteer';
 import { parse } from 'node-html-parser';
 import urlJoin from 'url-join';
 // Local modules.
@@ -15,8 +15,16 @@ interface CommunityDay {
 
 const getCommunityDays = async () => {
   const wikiUrl = urlJoin(hostUrl, `/wiki/Community_Day`);
-  const res = await fetch(wikiUrl);
-  const xml = await res.text();
+  const browser = await puppeteer.launch({
+    args: ['--no-sandbox'],
+    executablePath: process.env.PUPPETEER_EXEC_PATH, // set by docker container
+    headless: false,
+  });
+  const page = await browser.newPage();
+  await page.goto(wikiUrl, { waitUntil: 'networkidle0' });
+  const xml = await page.evaluate(() => document.querySelector('*')?.outerHTML!);
+  await page.waitForTimeout(5000);
+  await browser.close();
 
   const root = parse(xml);
   const rowItems = root.querySelectorAll('table.roundtable tbody tr');
