@@ -81,14 +81,6 @@
     "date": "2022-09-18"
   },
   {
-    "featuredPokemon": "Litwick",
-    "eligiblePokemon": "Chandelure",
-    "moves": [
-      "Poltergeist"
-    ],
-    "date": "2022-10-15"
-  },
-  {
     "featuredPokemon": "Bulbasaur",
     "eligiblePokemon": "Venusaur",
     "moves": [
