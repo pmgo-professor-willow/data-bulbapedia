@@ -105,6 +105,14 @@
     "date": "2022-01-22"
   },
   {
+    "featuredPokemon": "Dratini",
+    "eligiblePokemon": "Dragonite",
+    "moves": [
+      "Draco Meteor"
+    ],
+    "date": "2022-11-05"
+  },
+  {
     "featuredPokemon": "Machop",
     "eligiblePokemon": "Machamp",
     "moves": [
