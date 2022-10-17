@@ -89,6 +89,14 @@
     "date": "2022-10-15"
   },
   {
+    "featuredPokemon": "Teddiursa",
+    "eligiblePokemon": "File:GO901.png",
+    "moves": [
+      "High Horsepower"
+    ],
+    "date": "2022-11-12"
+  },
+  {
     "featuredPokemon": "Bulbasaur",
     "eligiblePokemon": "Venusaur",
     "moves": [
