@@ -1,5 +1,13 @@
 [
   {
+    "featuredPokemon": "Chespin",
+    "eligiblePokemon": "Chesnaught",
+    "moves": [
+      "Frenzy Plant"
+    ],
+    "date": "2023-01-07"
+  },
+  {
     "featuredPokemon": "Spheal",
     "eligiblePokemon": "Walrein",
     "moves": [
