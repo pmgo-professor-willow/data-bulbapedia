@@ -21,7 +21,13 @@ const getCommunityDays = async () => {
     headless: false,
   });
   const page = await browser.newPage();
-  await page.goto(wikiUrl, { waitUntil: 'networkidle0' });
+  await page.goto(
+    wikiUrl,
+    {
+      waitUntil: ["load", "domcontentloaded", "networkidle2"],
+      timeout: 120000
+    }
+  );
   const xml = await page.evaluate(() => document.querySelector('*')?.outerHTML!);
   await page.waitForTimeout(5000);
   await browser.close();
