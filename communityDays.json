@@ -16,6 +16,38 @@
     "date": "2023-02-05"
   },
   {
+    "featuredPokemon": "Slowpoke",
+    "eligiblePokemon": "Slowbro",
+    "moves": [
+      "Surf"
+    ],
+    "date": "2023-03-18"
+  },
+  {
+    "featuredPokemon": "Slowpoke",
+    "eligiblePokemon": "Slowking",
+    "moves": [
+      "Surf"
+    ],
+    "date": "2023-03-18"
+  },
+  {
+    "featuredPokemon": "Slowpoke",
+    "eligiblePokemon": "Slowbro",
+    "moves": [
+      "Surf"
+    ],
+    "date": "2023-03-18"
+  },
+  {
+    "featuredPokemon": "Slowpoke",
+    "eligiblePokemon": "Slowking",
+    "moves": [
+      "Surf"
+    ],
+    "date": "2023-03-18"
+  },
+  {
     "featuredPokemon": "Larvitar",
     "eligiblePokemon": "Tyranitar",
     "moves": [
