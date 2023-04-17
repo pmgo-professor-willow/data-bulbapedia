@@ -656,5 +656,13 @@
       "Smack Down"
     ],
     "date": "2023-01-21"
+  },
+  {
+    "featuredPokemon": "Swinub",
+    "eligiblePokemon": "Mamoswine",
+    "moves": [
+      "Ancient Power"
+    ],
+    "date": "2023-04-29"
   }
 ]
