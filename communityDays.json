@@ -650,6 +650,14 @@
     "date": "2023-04-15"
   },
   {
+    "featuredPokemon": "Fennekin",
+    "eligiblePokemon": "Delphox",
+    "moves": [
+      "Blast Burn"
+    ],
+    "date": "2023-05-21"
+  },
+  {
     "featuredPokemon": "Larvitar",
     "eligiblePokemon": "Tyranitar",
     "moves": [
