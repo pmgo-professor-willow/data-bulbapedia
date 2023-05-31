@@ -658,6 +658,14 @@
     "date": "2023-05-21"
   },
   {
+    "featuredPokemon": "Axew",
+    "eligiblePokemon": "Haxorus",
+    "moves": [
+      "Breaking Swipe"
+    ],
+    "date": "2023-06-10"
+  },
+  {
     "featuredPokemon": "Larvitar",
     "eligiblePokemon": "Tyranitar",
     "moves": [
