@@ -499,7 +499,7 @@
   },
   {
     "featuredPokemon": "Sandshrew",
-    "eligiblePokemon": "Sandslash (Alolan Form)",
+    "eligiblePokemon": "Sandslash",
     "moves": [
       "Shadow Claw"
     ],
@@ -514,8 +514,8 @@
     "date": "2022-04-23"
   },
   {
-    "featuredPokemon": "Geodude (Alolan Form)",
-    "eligiblePokemon": "Golem (Alolan Form)",
+    "featuredPokemon": "Geodude",
+    "eligiblePokemon": "Golem",
     "moves": [
       "Rollout"
     ],
@@ -538,7 +538,7 @@
     "date": "2022-07-17"
   },
   {
-    "featuredPokemon": "Zigzagoon (Galarian Form)",
+    "featuredPokemon": "Zigzagoon",
     "eligiblePokemon": "Obstagoon",
     "moves": [
       "Obstruct"
@@ -627,7 +627,7 @@
   },
   {
     "featuredPokemon": "Slowpoke",
-    "eligiblePokemon": "Slowbro (Galarian Form)",
+    "eligiblePokemon": "Slowbro",
     "moves": [
       "Surf"
     ],
@@ -635,7 +635,7 @@
   },
   {
     "featuredPokemon": "Slowpoke",
-    "eligiblePokemon": "Slowking (Galarian Form)",
+    "eligiblePokemon": "Slowking",
     "moves": [
       "Surf"
     ],
