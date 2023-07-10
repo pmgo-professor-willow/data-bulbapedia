@@ -666,6 +666,22 @@
     "date": "2023-06-10"
   },
   {
+    "featuredPokemon": "Poliwag",
+    "eligiblePokemon": "Poliwrath",
+    "moves": [
+      "Counter"
+    ],
+    "date": "2023-07-30"
+  },
+  {
+    "featuredPokemon": "Poliwag",
+    "eligiblePokemon": "Politoed",
+    "moves": [
+      "Ice Beam"
+    ],
+    "date": "2023-07-30"
+  },
+  {
     "featuredPokemon": "Larvitar",
     "eligiblePokemon": "Tyranitar",
     "moves": [
