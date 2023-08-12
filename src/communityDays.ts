@@ -1,8 +1,9 @@
 // Node modules.
 import _ from 'lodash';
-import puppeteer from 'puppeteer';
-import { parse } from 'node-html-parser';
 import urlJoin from 'url-join';
+import puppeteer from 'puppeteer-extra';
+import { parse } from 'node-html-parser';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 // Local modules.
 import { hostUrl } from './utils';
 
@@ -15,21 +16,15 @@ interface CommunityDay {
 
 const getCommunityDays = async () => {
   const wikiUrl = urlJoin(hostUrl, `/wiki/Community_Day`);
-  const browser = await puppeteer.launch({
+  const browser = await puppeteer.use(StealthPlugin()).launch({
     args: ['--no-sandbox'],
     executablePath: process.env.PUPPETEER_EXEC_PATH, // set by docker container
     headless: false,
   });
   const page = await browser.newPage();
-  await page.goto(
-    wikiUrl,
-    {
-      waitUntil: ["load", "domcontentloaded", "networkidle2"],
-      timeout: 120000
-    }
-  );
+  await page.goto(wikiUrl, { waitUntil: ["domcontentloaded"], timeout: 120000 });
   const xml = await page.evaluate(() => document.querySelector('*')?.outerHTML!);
-  await page.waitForTimeout(5000);
+  await new Promise(resolve => setTimeout(resolve, 5000));
   await browser.close();
 
   const root = parse(xml);
