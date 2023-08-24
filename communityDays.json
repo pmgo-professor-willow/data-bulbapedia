@@ -704,13 +704,5 @@
       "Ancient Power"
     ],
     "date": "2023-04-29"
-  },
-  {
-    "featuredPokemon": "Squirtle",
-    "eligiblePokemon": "Blastoise",
-    "moves": [
-      "Hydro Cannon"
-    ],
-    "date": "2023-09-08"
   }
 ]
