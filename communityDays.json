@@ -712,5 +712,11 @@
       "Hydro Cannon"
     ],
     "date": "2023-09-08"
+  },
+  {
+    "featuredPokemon": "Charmander",
+    "eligiblePokemon": "Charizard",
+    "moves": [],
+    "date": "2023-09-02"
   }
 ]
