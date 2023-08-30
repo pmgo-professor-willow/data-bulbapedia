@@ -716,7 +716,10 @@
   {
     "featuredPokemon": "Charmander",
     "eligiblePokemon": "Charizard",
-    "moves": [],
+    "moves": [
+      "Dragon Breath",
+      "Blast Burn"
+    ],
     "date": "2023-09-02"
   }
 ]
