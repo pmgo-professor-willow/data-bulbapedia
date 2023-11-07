@@ -761,5 +761,13 @@
       "Blast Burn"
     ],
     "date": "2023-09-02"
+  },
+  {
+    "featuredPokemon": "Mareep",
+    "eligiblePokemon": "Ampharos",
+    "moves": [
+      "Dragon Pulse"
+    ],
+    "date": "2023-11-25"
   }
 ]
