@@ -769,5 +769,23 @@
       "Dragon Pulse"
     ],
     "date": "2023-11-25"
+  },
+  {
+    "featuredPokemon": "Rowlet",
+    "eligiblePokemon": "Decidueye",
+    "moves": [],
+    "date": "2024-01-06"
+  },
+  {
+    "featuredPokemon": "Chansey",
+    "eligiblePokemon": "Blissey",
+    "moves": [],
+    "date": "2024-02-04"
+  },
+  {
+    "featuredPokemon": "Porygon",
+    "eligiblePokemon": "Porygon-Z",
+    "moves": [],
+    "date": "2024-01-20"
   }
 ]
