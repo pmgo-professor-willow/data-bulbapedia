@@ -773,7 +773,9 @@
   {
     "featuredPokemon": "Rowlet",
     "eligiblePokemon": "Decidueye",
-    "moves": [],
+    "moves": [
+      "Frenzy Plant"
+    ],
     "date": "2024-01-06"
   },
   {
