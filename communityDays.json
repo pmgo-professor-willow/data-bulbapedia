@@ -787,6 +787,14 @@
     "date": "2024-02-04"
   },
   {
+    "featuredPokemon": "Litten",
+    "eligiblePokemon": "Incineroar",
+    "moves": [
+      "Blast Burn"
+    ],
+    "date": "2024-03-16"
+  },
+  {
     "featuredPokemon": "Porygon",
     "eligiblePokemon": "Porygon-Z",
     "moves": [
