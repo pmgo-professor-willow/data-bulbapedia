@@ -795,6 +795,12 @@
     "date": "2024-03-16"
   },
   {
+    "featuredPokemon": "Missingno.",
+    "eligiblePokemon": "Missingno.",
+    "moves": [],
+    "date": "2024-04-20"
+  },
+  {
     "featuredPokemon": "Porygon",
     "eligiblePokemon": "Porygon-Z",
     "moves": [
