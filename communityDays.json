@@ -797,7 +797,9 @@
   {
     "featuredPokemon": "Missingno.",
     "eligiblePokemon": "Missingno.",
-    "moves": [],
+    "moves": [
+      "Magical Leaf"
+    ],
     "date": "2024-04-20"
   },
   {
