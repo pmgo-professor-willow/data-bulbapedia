@@ -809,5 +809,13 @@
       "Tri Attack"
     ],
     "date": "2024-01-20"
+  },
+  {
+    "featuredPokemon": "Bagon",
+    "eligiblePokemon": "Salamence",
+    "moves": [
+      "Outrage"
+    ],
+    "date": "2024-04-07"
   }
 ]
