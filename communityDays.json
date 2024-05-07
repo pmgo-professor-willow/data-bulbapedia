@@ -803,6 +803,14 @@
     "date": "2024-04-20"
   },
   {
+    "featuredPokemon": "Bounsweet",
+    "eligiblePokemon": "Tsareena",
+    "moves": [
+      "High Jump Kick"
+    ],
+    "date": "2024-05-19"
+  },
+  {
     "featuredPokemon": "Porygon",
     "eligiblePokemon": "Porygon-Z",
     "moves": [
