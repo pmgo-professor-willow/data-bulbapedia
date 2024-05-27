@@ -811,6 +811,12 @@
     "date": "2024-05-19"
   },
   {
+    "featuredPokemon": "Goomy",
+    "eligiblePokemon": "Goodra",
+    "moves": [],
+    "date": "2024-06-09"
+  },
+  {
     "featuredPokemon": "Porygon",
     "eligiblePokemon": "Porygon-Z",
     "moves": [
@@ -825,5 +831,13 @@
       "Outrage"
     ],
     "date": "2024-04-07"
+  },
+  {
+    "featuredPokemon": "Cyndaquil",
+    "eligiblePokemon": "Typhlosion",
+    "moves": [
+      "Blast Burn"
+    ],
+    "date": "2024-06-22"
   }
 ]
