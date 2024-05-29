@@ -813,7 +813,9 @@
   {
     "featuredPokemon": "Goomy",
     "eligiblePokemon": "Goodra",
-    "moves": [],
+    "moves": [
+      "Thunder Punch"
+    ],
     "date": "2024-06-09"
   },
   {
