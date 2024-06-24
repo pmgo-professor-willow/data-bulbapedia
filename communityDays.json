@@ -819,6 +819,14 @@
     "date": "2024-06-09"
   },
   {
+    "featuredPokemon": "Tynamo",
+    "eligiblePokemon": "Eelektross",
+    "moves": [
+      "Volt Switch"
+    ],
+    "date": "2024-07-21"
+  },
+  {
     "featuredPokemon": "Porygon",
     "eligiblePokemon": "Porygon-Z",
     "moves": [
