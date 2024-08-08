@@ -857,5 +857,13 @@
       "Blast Burn"
     ],
     "date": "2024-06-22"
+  },
+  {
+    "featuredPokemon": "Beldum",
+    "eligiblePokemon": "Metagross",
+    "moves": [
+      "Meteor Mash"
+    ],
+    "date": "2024-08-18"
   }
 ]
