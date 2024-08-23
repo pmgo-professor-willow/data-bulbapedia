@@ -837,13 +837,17 @@
   {
     "featuredPokemon": "Ponyta",
     "eligiblePokemon": "Rapidash",
-    "moves": [],
+    "moves": [
+      "Wild Charge"
+    ],
     "date": "2024-09-14"
   },
   {
     "featuredPokemon": "Ponyta",
     "eligiblePokemon": "Rapidash (Galarian Form)",
-    "moves": [],
+    "moves": [
+      "Wild Charge"
+    ],
     "date": "2024-09-14"
   },
   {
