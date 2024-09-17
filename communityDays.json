@@ -851,6 +851,14 @@
     "date": "2024-09-14"
   },
   {
+    "featuredPokemon": "Sewaddle",
+    "eligiblePokemon": "Leavanny",
+    "moves": [
+      "Shadow Claw"
+    ],
+    "date": "2024-10-05"
+  },
+  {
     "featuredPokemon": "Porygon",
     "eligiblePokemon": "Porygon-Z",
     "moves": [
