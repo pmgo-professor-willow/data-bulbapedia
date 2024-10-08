@@ -861,7 +861,9 @@
   {
     "featuredPokemon": "Mankey",
     "eligiblePokemon": "Annihilape",
-    "moves": [],
+    "moves": [
+      "Rage Fist"
+    ],
     "date": "2024-11-10"
   },
   {
