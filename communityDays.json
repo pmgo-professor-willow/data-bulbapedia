@@ -857,5 +857,45 @@
       "Shadow Claw"
     ],
     "date": "2024-10-05"
+  },
+  {
+    "featuredPokemon": "Mankey",
+    "eligiblePokemon": "Annihilape",
+    "moves": [
+      "Rage Fist"
+    ],
+    "date": "2024-11-10"
+  },
+  {
+    "featuredPokemon": "Porygon",
+    "eligiblePokemon": "Porygon-Z",
+    "moves": [
+      "Tri Attack"
+    ],
+    "date": "2024-01-20"
+  },
+  {
+    "featuredPokemon": "Bagon",
+    "eligiblePokemon": "Salamence",
+    "moves": [
+      "Outrage"
+    ],
+    "date": "2024-04-07"
+  },
+  {
+    "featuredPokemon": "Cyndaquil",
+    "eligiblePokemon": "Typhlosion",
+    "moves": [
+      "Blast Burn"
+    ],
+    "date": "2024-06-22"
+  },
+  {
+    "featuredPokemon": "Beldum",
+    "eligiblePokemon": "Metagross",
+    "moves": [
+      "Meteor Mash"
+    ],
+    "date": "2024-08-18"
   }
 ]
