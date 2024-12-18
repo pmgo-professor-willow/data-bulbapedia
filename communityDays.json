@@ -857,5 +857,13 @@
       "Shadow Claw"
     ],
     "date": "2024-10-05"
+  },
+  {
+    "featuredPokemon": "Sprigatito",
+    "eligiblePokemon": "Meowcarada",
+    "moves": [
+      "Frenzy Plant"
+    ],
+    "date": "2024-11-10"
   }
 ]
