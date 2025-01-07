@@ -865,5 +865,21 @@
       "Frenzy Plant"
     ],
     "date": "2024-11-10"
+  },
+  {
+    "featuredPokemon": "Ralts",
+    "eligiblePokemon": "Gardevoir",
+    "moves": [
+      "Synchronoise"
+    ],
+    "date": "2024-11-10"
+  },
+  {
+    "featuredPokemon": "Ralts",
+    "eligiblePokemon": "Gallade",
+    "moves": [
+      "Synchronoise"
+    ],
+    "date": "2024-11-10"
   }
 ]
