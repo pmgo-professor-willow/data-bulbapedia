@@ -867,6 +867,22 @@
     "date": "2024-11-10"
   },
   {
+    "featuredPokemon": "Karrablast",
+    "eligiblePokemon": "Escavalier",
+    "moves": [
+      "Razor Shell"
+    ],
+    "date": "2025-02-09"
+  },
+  {
+    "featuredPokemon": "Karrablast",
+    "eligiblePokemon": "Accelgor",
+    "moves": [
+      "Energy Ball"
+    ],
+    "date": "2025-02-09"
+  },
+  {
     "featuredPokemon": "Ralts",
     "eligiblePokemon": "Gardevoir",
     "moves": [
