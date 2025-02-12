@@ -883,6 +883,14 @@
     "date": "2025-02-09"
   },
   {
+    "featuredPokemon": "Fuecoco",
+    "eligiblePokemon": "Skeledirge",
+    "moves": [
+      "Blast Burn"
+    ],
+    "date": "2024-11-10"
+  },
+  {
     "featuredPokemon": "Ralts",
     "eligiblePokemon": "Gardevoir",
     "moves": [
