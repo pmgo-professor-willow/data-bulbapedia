@@ -905,5 +905,13 @@
       "Synchronoise"
     ],
     "date": "2024-11-10"
+  },
+  {
+    "featuredPokemon": "Totodile",
+    "eligiblePokemon": "Feraligatr",
+    "moves": [
+      "Hydro Cannon"
+    ],
+    "date": "2025-03-22"
   }
 ]
