@@ -891,6 +891,14 @@
     "date": "2024-11-10"
   },
   {
+    "featuredPokemon": "Vanillite",
+    "eligiblePokemon": "Vanilluxe",
+    "moves": [
+      "Avalanche"
+    ],
+    "date": "2024-11-10"
+  },
+  {
     "featuredPokemon": "Ralts",
     "eligiblePokemon": "Gardevoir",
     "moves": [
