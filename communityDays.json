@@ -899,6 +899,12 @@
     "date": "2024-11-10"
   },
   {
+    "featuredPokemon": "Pawmi",
+    "eligiblePokemon": "Pawmot",
+    "moves": [],
+    "date": "2024-11-10"
+  },
+  {
     "featuredPokemon": "Ralts",
     "eligiblePokemon": "Gardevoir",
     "moves": [
