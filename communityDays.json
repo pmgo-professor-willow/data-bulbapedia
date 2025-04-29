@@ -901,7 +901,9 @@
   {
     "featuredPokemon": "Pawmi",
     "eligiblePokemon": "Pawmot",
-    "moves": [],
+    "moves": [
+      "Brick Break"
+    ],
     "date": "2024-11-10"
   },
   {
