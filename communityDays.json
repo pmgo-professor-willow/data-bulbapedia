@@ -907,6 +907,22 @@
     "date": "2024-11-10"
   },
   {
+    "featuredPokemon": "Jangmo-o",
+    "eligiblePokemon": "Kommo-o",
+    "moves": [
+      "Clanging Scales"
+    ],
+    "date": "2025-06-21"
+  },
+  {
+    "featuredPokemon": "Rookidee",
+    "eligiblePokemon": "Corviknight",
+    "moves": [
+      "Air Cutter"
+    ],
+    "date": "2025-08-30"
+  },
+  {
     "featuredPokemon": "Ralts",
     "eligiblePokemon": "Gardevoir",
     "moves": [
@@ -937,5 +953,77 @@
       "Payback"
     ],
     "date": "2025-05-24"
+  },
+  {
+    "featuredPokemon": "Eevee",
+    "eligiblePokemon": "Eevee",
+    "moves": [
+      "Last Resort"
+    ],
+    "date": "2025-07-05"
+  },
+  {
+    "featuredPokemon": "Eevee",
+    "eligiblePokemon": "Vaporeon",
+    "moves": [
+      "Scald"
+    ],
+    "date": "2025-07-05"
+  },
+  {
+    "featuredPokemon": "Eevee",
+    "eligiblePokemon": "Jolteon",
+    "moves": [
+      "Zap Cannon"
+    ],
+    "date": "2025-07-05"
+  },
+  {
+    "featuredPokemon": "Eevee",
+    "eligiblePokemon": "Flareon",
+    "moves": [
+      "Superpower"
+    ],
+    "date": "2025-07-05"
+  },
+  {
+    "featuredPokemon": "Eevee",
+    "eligiblePokemon": "Espeon",
+    "moves": [
+      "Shadow Ball"
+    ],
+    "date": "2025-07-05"
+  },
+  {
+    "featuredPokemon": "Eevee",
+    "eligiblePokemon": "Umbreon",
+    "moves": [
+      "Psychic"
+    ],
+    "date": "2025-07-05"
+  },
+  {
+    "featuredPokemon": "Eevee",
+    "eligiblePokemon": "Leafeon",
+    "moves": [
+      "Bullet Seed"
+    ],
+    "date": "2025-07-05"
+  },
+  {
+    "featuredPokemon": "Eevee",
+    "eligiblePokemon": "Glaceon",
+    "moves": [
+      "Water Pulse"
+    ],
+    "date": "2025-07-05"
+  },
+  {
+    "featuredPokemon": "Eevee",
+    "eligiblePokemon": "Sylveon",
+    "moves": [
+      "Psyshock"
+    ],
+    "date": "2025-07-05"
   }
 ]
