@@ -915,6 +915,14 @@
     "date": "2025-06-21"
   },
   {
+    "featuredPokemon": "Quaxly",
+    "eligiblePokemon": "Quaquaval",
+    "moves": [
+      "Hydro Cannon"
+    ],
+    "date": "2025-07-20"
+  },
+  {
     "featuredPokemon": "Rookidee",
     "eligiblePokemon": "Corviknight",
     "moves": [
