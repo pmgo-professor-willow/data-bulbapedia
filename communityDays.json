@@ -963,6 +963,14 @@
     "date": "2025-09-14"
   },
   {
+    "featuredPokemon": "Solosis",
+    "eligiblePokemon": "Reuniclus",
+    "moves": [
+      "Charm"
+    ],
+    "date": "2025-10-12"
+  },
+  {
     "featuredPokemon": "Ralts",
     "eligiblePokemon": "Gardevoir",
     "moves": [
