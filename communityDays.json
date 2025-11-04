@@ -971,107 +971,73 @@
     "date": "2025-10-12"
   },
   {
-    "featuredPokemon": "Ralts",
-    "eligiblePokemon": "Gardevoir",
-    "moves": [
-      "Synchronoise"
-    ],
-    "date": "2024-11-10"
+    "featuredPokemon": "Pikipek",
+    "eligiblePokemon": "Toucannon",
+    "moves": [],
+    "date": "2025-11-30"
   },
   {
-    "featuredPokemon": "Ralts",
-    "eligiblePokemon": "Gallade",
-    "moves": [
-      "Synchronoise"
-    ],
-    "date": "2024-11-10"
-  },
-  {
-    "featuredPokemon": "Totodile",
-    "eligiblePokemon": "Feraligatr",
-    "moves": [
-      "Hydro Cannon"
-    ],
-    "date": "2025-03-22"
-  },
-  {
-    "featuredPokemon": "Machop",
-    "eligiblePokemon": "Machamp",
-    "moves": [
-      "Payback"
-    ],
-    "date": "2025-05-24"
-  },
-  {
-    "featuredPokemon": "Eevee",
-    "eligiblePokemon": "Eevee",
-    "moves": [
-      "Last Resort"
-    ],
-    "date": "2025-07-05"
-  },
-  {
-    "featuredPokemon": "Eevee",
+    "featuredPokemon": "Pikipek",
     "eligiblePokemon": "Vaporeon",
     "moves": [
       "Scald"
     ],
-    "date": "2025-07-05"
+    "date": "2025-11-30"
   },
   {
-    "featuredPokemon": "Eevee",
+    "featuredPokemon": "Pikipek",
     "eligiblePokemon": "Jolteon",
     "moves": [
       "Zap Cannon"
     ],
-    "date": "2025-07-05"
+    "date": "2025-11-30"
   },
   {
-    "featuredPokemon": "Eevee",
+    "featuredPokemon": "Pikipek",
     "eligiblePokemon": "Flareon",
     "moves": [
       "Superpower"
     ],
-    "date": "2025-07-05"
+    "date": "2025-11-30"
   },
   {
-    "featuredPokemon": "Eevee",
+    "featuredPokemon": "Pikipek",
     "eligiblePokemon": "Espeon",
     "moves": [
       "Shadow Ball"
     ],
-    "date": "2025-07-05"
+    "date": "2025-11-30"
   },
   {
-    "featuredPokemon": "Eevee",
+    "featuredPokemon": "Pikipek",
     "eligiblePokemon": "Umbreon",
     "moves": [
       "Psychic"
     ],
-    "date": "2025-07-05"
+    "date": "2025-11-30"
   },
   {
-    "featuredPokemon": "Eevee",
+    "featuredPokemon": "Pikipek",
     "eligiblePokemon": "Leafeon",
     "moves": [
       "Bullet Seed"
     ],
-    "date": "2025-07-05"
+    "date": "2025-11-30"
   },
   {
-    "featuredPokemon": "Eevee",
+    "featuredPokemon": "Pikipek",
     "eligiblePokemon": "Glaceon",
     "moves": [
       "Water Pulse"
     ],
-    "date": "2025-07-05"
+    "date": "2025-11-30"
   },
   {
-    "featuredPokemon": "Eevee",
+    "featuredPokemon": "Pikipek",
     "eligiblePokemon": "Sylveon",
     "moves": [
       "Psyshock"
     ],
-    "date": "2025-07-05"
+    "date": "2025-11-30"
   }
 ]
