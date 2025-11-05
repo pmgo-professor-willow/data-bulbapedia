@@ -973,7 +973,9 @@
   {
     "featuredPokemon": "Pikipek",
     "eligiblePokemon": "Toucannon",
-    "moves": [],
+    "moves": [
+      "Beak Blast"
+    ],
     "date": "2025-11-30"
   },
   {
