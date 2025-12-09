@@ -1041,5 +1041,13 @@
       "Psyshock"
     ],
     "date": "2025-11-30"
+  },
+  {
+    "featuredPokemon": "Grookey",
+    "eligiblePokemon": "Rillaboom",
+    "moves": [
+      "Frenzy Plant"
+    ],
+    "date": "2026-01-18"
   }
 ]
