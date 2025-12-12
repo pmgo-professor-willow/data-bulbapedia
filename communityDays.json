@@ -1049,5 +1049,13 @@
       "Frenzy Plant"
     ],
     "date": "2026-01-18"
+  },
+  {
+    "featuredPokemon": "Piplup",
+    "eligiblePokemon": "Empoleon",
+    "moves": [
+      "Hydro Cannon"
+    ],
+    "date": "2026-01-04"
   }
 ]
