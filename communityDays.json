@@ -1065,5 +1065,13 @@
       "Chilling Water"
     ],
     "date": "2026-02-01"
+  },
+  {
+    "featuredPokemon": "Piplup",
+    "eligiblePokemon": "Empoleon",
+    "moves": [
+      "Hydro Cannon"
+    ],
+    "date": "2026-01-04"
   }
 ]
