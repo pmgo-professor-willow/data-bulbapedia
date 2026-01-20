@@ -1053,17 +1053,13 @@
   {
     "featuredPokemon": "Vulpix",
     "eligiblePokemon": "Ninetales",
-    "moves": [
-      "Energy Ball"
-    ],
+    "moves": [],
     "date": "2026-02-01"
   },
   {
     "featuredPokemon": "Vulpix",
     "eligiblePokemon": "Ninetales (Alolan Form)",
-    "moves": [
-      "Chilling Water"
-    ],
+    "moves": [],
     "date": "2026-02-01"
   },
   {
