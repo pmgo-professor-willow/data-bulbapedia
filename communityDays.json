@@ -1065,5 +1065,11 @@
       "Chilling Water"
     ],
     "date": "2026-02-01"
+  },
+  {
+    "featuredPokemon": "Scorbunny",
+    "eligiblePokemon": "Cinderace",
+    "moves": [],
+    "date": "2026-03-14"
   }
 ]
