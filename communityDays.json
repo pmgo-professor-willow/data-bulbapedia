@@ -1085,13 +1085,9 @@
   {
     "featuredPokemon": "Lechonk",
     "eligiblePokemon": "Oinkologne",
-    "moves": [],
-    "date": "2026-05-09"
-  },
-  {
-    "featuredPokemon": "Lechonk",
-    "eligiblePokemon": "Oinkologne",
-    "moves": [],
+    "moves": [
+      "Mud-Slap"
+    ],
     "date": "2026-05-09"
   }
 ]
