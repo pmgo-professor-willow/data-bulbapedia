@@ -1089,5 +1089,11 @@
       "Mud-Slap"
     ],
     "date": "2026-05-09"
+  },
+  {
+    "featuredPokemon": "Frigibax",
+    "eligiblePokemon": "Baxcalibur",
+    "moves": [],
+    "date": "2026-06-20"
   }
 ]
