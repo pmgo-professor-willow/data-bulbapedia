@@ -1093,7 +1093,9 @@
   {
     "featuredPokemon": "Frigibax",
     "eligiblePokemon": "Baxcalibur",
-    "moves": [],
+    "moves": [
+      "Glaive Rush"
+    ],
     "date": "2026-06-20"
   }
 ]
