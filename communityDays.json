@@ -1097,5 +1097,11 @@
       "Glaive Rush"
     ],
     "date": "2026-06-20"
+  },
+  {
+    "featuredPokemon": "Nickit",
+    "eligiblePokemon": "Thievul",
+    "moves": [],
+    "date": "2026-08-16"
   }
 ]
