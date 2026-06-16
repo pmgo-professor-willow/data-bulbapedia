@@ -1099,6 +1099,14 @@
     "date": "2026-06-20"
   },
   {
+    "featuredPokemon": "Sobble",
+    "eligiblePokemon": "Inteleon",
+    "moves": [
+      "Hydro Cannon"
+    ],
+    "date": "2026-07-04"
+  },
+  {
     "featuredPokemon": "Nickit",
     "eligiblePokemon": "Thievul",
     "moves": [],
