@@ -1109,7 +1109,9 @@
   {
     "featuredPokemon": "Nickit",
     "eligiblePokemon": "Thievul",
-    "moves": [],
+    "moves": [
+      "Icy Wind"
+    ],
     "date": "2026-08-16"
   }
 ]
